@@ -1,0 +1,25 @@
+{
+    "name": "idimensionz/sendgrid-webapi-v3-examples",
+    "description": "Examples showing how to use iDimensionz's PHP API client for SendGrid web API V3.",
+    "autoload": {
+        "psr-0": { "": "src/", "SymfonyStandard": "app/" }
+    },
+    "license": "MIT license",
+    "repositories": [
+        {
+            "url": "https://github.com/idimensionz/sendgrid-webapi-v3-php.git",
+            "type": "git"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Jim Mullen",
+            "email": "info@idimensionz.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "idimensionz/sendgrid-webapi-v3": "dev-master@dev",
+        "symfony/console": "^2.7"
+    }
+}
