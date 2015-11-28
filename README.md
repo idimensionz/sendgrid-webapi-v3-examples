@@ -1,5 +1,5 @@
 # sendgrid-webapi-v3-examples
-Examples of how to use the SendGrid web API V3 PHP client
+Examples of how to use the [iDimensionz SendGrid web API V3 PHP client](https://github.com/idimensionz/sendgrid-webapi-v3-php)
 
 **NOTE: you will need your SendGrid API key to use the iDimensionz SendGrid Web API and run these examples.**
 
